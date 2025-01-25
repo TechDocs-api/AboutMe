@@ -7,3 +7,4 @@ About Me:
 My current interests: API documentation, Generative AI
 Ask me about: Technical writing, translation, and yoga
 My hobbies: Vinyasa yoga teacher
+
